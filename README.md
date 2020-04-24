@@ -1,3 +1,7 @@
+## Source
+
+[Crea paso a paso una app con React.js y Redux](https://youtu.be/HhtqSwUgP1U)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
